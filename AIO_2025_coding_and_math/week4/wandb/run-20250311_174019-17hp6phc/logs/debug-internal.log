@@ -1,0 +1,22 @@
+{"time":"2025-03-11T17:40:19.2530726+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Admin\\Desktop\\AIO_2025\\AIO_2025\\AIO_2025_coding_and_math\\week4\\wandb\\run-20250311_174019-17hp6phc\\logs\\debug-core.log"}
+{"time":"2025-03-11T17:40:19.3691031+07:00","level":"INFO","msg":"created new stream","id":"17hp6phc"}
+{"time":"2025-03-11T17:40:19.370684+07:00","level":"INFO","msg":"stream: started","id":"17hp6phc"}
+{"time":"2025-03-11T17:40:19.370684+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"17hp6phc"}
+{"time":"2025-03-11T17:40:19.370684+07:00","level":"INFO","msg":"sender: started","stream_id":"17hp6phc"}
+{"time":"2025-03-11T17:40:19.370684+07:00","level":"INFO","msg":"handler: started","stream_id":"17hp6phc"}
+{"time":"2025-03-11T17:40:20.7510608+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-11T17:40:21.3734084+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:41:26.9384686+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:41:26.9408008+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:41:41.3158486+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:41:41.3164123+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:41:54.9279346+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:41:55.2941653+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-11T17:41:55.2946744+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-11T17:41:56.2999998+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-17hp6phc-Dataset","runtime_seconds":1.0231168,"subtasks":[{"desc":" Dataset .table.json","runtime_seconds":0.0677791,"progress":"415B/415B"}]},{"desc":"uploading output.log","runtime_seconds":0.7570974,"progress":"450B/450B"},{"desc":"uploading config.yaml","runtime_seconds":0.4977874,"progress":"535B/535B"}],"total_operations":3}}
+{"time":"2025-03-11T17:41:57.5427448+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-11T17:41:57.9155832+07:00","level":"INFO","msg":"stream: closing","id":"17hp6phc"}
+{"time":"2025-03-11T17:41:57.9155832+07:00","level":"INFO","msg":"handler: closed","stream_id":"17hp6phc"}
+{"time":"2025-03-11T17:41:57.9155832+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"17hp6phc"}
+{"time":"2025-03-11T17:41:57.9162736+07:00","level":"INFO","msg":"sender: closed","stream_id":"17hp6phc"}
+{"time":"2025-03-11T17:41:57.9162736+07:00","level":"INFO","msg":"stream: closed","id":"17hp6phc"}

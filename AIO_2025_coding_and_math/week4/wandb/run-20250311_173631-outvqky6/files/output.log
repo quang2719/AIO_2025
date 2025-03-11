@@ -1,0 +1,6 @@
+C:\Users\Admin\AppData\Local\Temp\ipykernel_12212\3918350031.py:25: RuntimeWarning: overflow encountered in scalar multiply
+  loss = ( y_hat - y ) *( y_hat - y ) / 2.0
+C:\Users\Admin\AppData\Local\Temp\ipykernel_12212\4214241593.py:11: RuntimeWarning: overflow encountered in scalar multiply
+  b_new = b - lr*db
+C:\Users\Admin\AppData\Local\Temp\ipykernel_12212\4214241593.py:3: RuntimeWarning: invalid value encountered in scalar add
+  return w*x+b

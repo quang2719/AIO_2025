@@ -1,0 +1,42 @@
+{
+  "os":  "Windows-11-10.0.26100-SP0",
+  "python":  "CPython 3.12.9",
+  "startedAt":  "2025-03-11T10:27:45.118919Z",
+  "program":  "c:\\Users\\Admin\\Desktop\\AIO_2025\\AIO_2025\\AIO_2025_coding_and_math\\week4\\day17.ipynb",
+  "codePath":  "AIO_2025_coding_and_math\\week4\\day17.ipynb",
+  "git":  {
+    "remote":  "https://github.com/quang2719/AIO_2025.git",
+    "commit":  "3b09954f29ff41bf576b9e29d942c28755cf6400"
+  },
+  "email":  "nvq270403@gmail.com",
+  "root":  "c:\\Users\\Admin\\Desktop\\AIO_2025\\AIO_2025\\AIO_2025_coding_and_math\\week4",
+  "host":  "DESKTOP-G7SK0TC",
+  "executable":  "c:\\Users\\Admin\\anaconda3\\envs\\aio_env_0703\\python.exe",
+  "codePathLocal":  "day17.ipynb",
+  "cpu_count":  14,
+  "cpu_count_logical":  20,
+  "gpu":  "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "295269560320",
+      "used":  "201409032192"
+    }
+  },
+  "memory":  {
+    "total":  "25551560704"
+  },
+  "cpu":  {
+    "count":  14,
+    "countLogical":  20
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4060 Laptop GPU",
+      "memoryTotal":  "8585740288",
+      "cudaCores":  3072,
+      "architecture":  "Ada"
+    }
+  ],
+  "cudaVersion":  "12.8"
+}

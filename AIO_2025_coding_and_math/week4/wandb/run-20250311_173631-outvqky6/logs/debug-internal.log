@@ -1,0 +1,16 @@
+{"time":"2025-03-11T17:36:31.7240286+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\Admin\\Desktop\\AIO_2025\\AIO_2025\\AIO_2025_coding_and_math\\week4\\wandb\\run-20250311_173631-outvqky6\\logs\\debug-core.log"}
+{"time":"2025-03-11T17:36:31.8385437+07:00","level":"INFO","msg":"created new stream","id":"outvqky6"}
+{"time":"2025-03-11T17:36:31.8403641+07:00","level":"INFO","msg":"stream: started","id":"outvqky6"}
+{"time":"2025-03-11T17:36:31.8403641+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"outvqky6"}
+{"time":"2025-03-11T17:36:31.8403641+07:00","level":"INFO","msg":"sender: started","stream_id":"outvqky6"}
+{"time":"2025-03-11T17:36:31.8403641+07:00","level":"INFO","msg":"handler: started","stream_id":"outvqky6"}
+{"time":"2025-03-11T17:36:32.3442558+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-11T17:36:32.9344542+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-11T17:36:32.9358255+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-11T17:36:33.8541765+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-outvqky6-Dataset","runtime_seconds":0.9211628},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.6454074,"progress":"1.2KB/1.2KB"},{"desc":"uploading media\\table\\ Dataset _0_a889a83428d7725af9e8.table.json","runtime_seconds":0.6454074,"progress":"91B/91B"},{"desc":"uploading output.log","runtime_seconds":0.6454074,"progress":"450B/450B"},{"desc":"uploading config.yaml","runtime_seconds":0.3756457,"progress":"514B/514B"}],"total_operations":5}}
+{"time":"2025-03-11T17:36:35.152382+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-11T17:36:35.5424439+07:00","level":"INFO","msg":"stream: closing","id":"outvqky6"}
+{"time":"2025-03-11T17:36:35.5424439+07:00","level":"INFO","msg":"handler: closed","stream_id":"outvqky6"}
+{"time":"2025-03-11T17:36:35.5424439+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"outvqky6"}
+{"time":"2025-03-11T17:36:35.5453746+07:00","level":"INFO","msg":"sender: closed","stream_id":"outvqky6"}
+{"time":"2025-03-11T17:36:35.5453746+07:00","level":"INFO","msg":"stream: closed","id":"outvqky6"}
